@@ -31,3 +31,26 @@ li {
     font-size: 18px;
     font-family: sans-serif;
 }
+
+/* article header p {
+    color: red;
+} */
+
+#author {
+    font-size: 16px;
+    font-style: italic;
+}
+
+#copyright {
+    font-size: 12px;
+    text-align: center;
+}
+
+.related {
+    list-style: none;
+}
+
+.related-author {
+    font-size: 16px;
+    font-weight: bold;
+}
