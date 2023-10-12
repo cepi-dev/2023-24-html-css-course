@@ -16,3 +16,6 @@
 ### Lesson 4
 - Combining Selectors
 - Class and ID Selectors
+### Lesson 5
+- Pseudo-Classes
+- Styling Hyperlinks
