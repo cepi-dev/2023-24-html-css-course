@@ -19,3 +19,9 @@
 ### Lesson 5
 - Pseudo-Classes
 - Styling Hyperlinks
+### Lesson 6
+- Selector Conflicts
+- Inheritance & The Universal Selector
+- Box Model
+- Padding & Margin
+- Dimensions
